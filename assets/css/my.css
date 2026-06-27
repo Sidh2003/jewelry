@@ -1,0 +1,6 @@
+/* Mobile */
+@media (max-width: 767px) {
+    .site-header .site-logo img {
+        max-height: 55pt !important;
+    }
+}
